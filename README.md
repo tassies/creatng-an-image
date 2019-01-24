@@ -1,4 +1,4 @@
-# creatng-an-image *use gimp to view image*
+# creatng-an-image *use GIMP to view image*
 this program creates and draws an image using this pseudo object and outputs the resulting PPM string to standard output.
 
 #include <iostream>
